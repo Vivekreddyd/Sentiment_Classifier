@@ -1,0 +1,6 @@
+steps to run the program:
+1)RNN:
+	For LSTM train : python imdb_lstm.py
+	For testing : imdb_lstm_load.py
+Please change the weights path and all the paths of datasets
+Please also change the keras metrics file to an older version
